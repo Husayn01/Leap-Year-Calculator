@@ -1,0 +1,27 @@
+body{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: #4caf50;
+}
+input{
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 12px;
+    border: 1px solid #000;
+    border-radius: 24px;
+    outline: none;
+}
+button{
+    background-color: #4caf50;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+}
+h3{
+    color: orange;
+}
